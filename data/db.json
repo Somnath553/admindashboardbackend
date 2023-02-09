@@ -1,0 +1,36 @@
+{
+    "posts": [
+      { "id": 1, "title": "json-server", "author": "typicode" },
+      { "id": 2, "title": "json-server", "author": "typicode" },
+      { "id": 3, "title": "json-server", "author": "typicode" },
+      { "id": 4, "title": "json-server", "author": "typicode" }
+    ],
+    "student": [
+      {"img":"https://randomuser.me/api/portraits/men/1.jpg","name":"Somnath Giri","email":"email","text":"https://img.icons8.com/plasticine/100/null/react.png"},
+      {"img":"https://randomuser.me/api/portraits/women/1.jpg","name":"Anita Rodriquez","email":"email","text":"https://img.icons8.com/color/48/null/angularjs.png"},
+      {"img":"https://randomuser.me/api/portraits/men/2.jpg","name":"Cora Key","email":"email","text":"https://img.icons8.com/fluency/48/null/flutter.png"},
+      {"img":"https://randomuser.me/api/portraits/women/2.jpg","name":"Tarik Novak","email":"email","text":"https://img.icons8.com/fluency/48/null/node-js.png"},
+      {"img":"https://randomuser.me/api/portraits/men/3.jpg","name":"Kylan Dorsey","email":"email","text":"https://img.icons8.com/color/48/null/javascript--v1.png"},
+      {"img":"https://randomuser.me/api/portraits/women/3.jpg","name":"Melisa Moon","email":"email","text":"https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"},
+      {"img":"https://randomuser.me/api/portraits/women/2.jpg","name":"Tarik Novak","email":"email","text":"https://img.icons8.com/fluency/48/null/node-js.png"},
+      {"img":"https://randomuser.me/api/portraits/men/3.jpg","name":"Kylan Dorsey","email":"email","text":"https://img.icons8.com/color/48/null/javascript--v1.png"},
+      {"img":"https://randomuser.me/api/portraits/women/3.jpg","name":"Melisa Moon","email":"email","text":"https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"},
+      {"img":"https://randomuser.me/api/portraits/men/2.jpg","name":"Cora Key","email":"email","text":"https://img.icons8.com/fluency/48/null/flutter.png"},
+      {"img":"https://randomuser.me/api/portraits/women/2.jpg","name":"Tarik Novak","email":"email","text":"https://img.icons8.com/fluency/48/null/node-js.png"},
+      {"img":"https://randomuser.me/api/portraits/men/3.jpg","name":"Kylan Dorsey","email":"email","text":"https://img.icons8.com/color/48/null/javascript--v1.png"},
+      {"img":"https://randomuser.me/api/portraits/men/2.jpg","name":"Cora Key","email":"email","text":"https://img.icons8.com/fluency/48/null/flutter.png"},
+      {"img":"https://randomuser.me/api/portraits/women/2.jpg","name":"Tarik Novak","email":"email","text":"https://img.icons8.com/fluency/48/null/node-js.png"},
+      {"img":"https://randomuser.me/api/portraits/men/3.jpg","name":"Kylan Dorsey","email":"email","text":"https://img.icons8.com/color/48/null/javascript--v1.png"},
+      {"img":"https://randomuser.me/api/portraits/women/3.jpg","name":"Melisa Moon","email":"email","text":"https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"},
+      {"img":"https://randomuser.me/api/portraits/women/2.jpg","name":"Tarik Novak","email":"email","text":"https://img.icons8.com/fluency/48/null/node-js.png"},
+      {"img":"https://randomuser.me/api/portraits/men/3.jpg","name":"Kylan Dorsey","email":"email","text":"https://img.icons8.com/color/48/null/javascript--v1.png"},
+      {"img":"https://randomuser.me/api/portraits/women/3.jpg","name":"Melisa Moon","email":"email","text":"https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"},
+      {"img":"https://randomuser.me/api/portraits/men/1.jpg","name":"Somnath Giri","email":"email","text":"https://img.icons8.com/plasticine/100/null/react.png"},
+      {"img":"https://randomuser.me/api/portraits/women/1.jpg","name":"Anita Rodriquez","email":"email","text":"https://img.icons8.com/color/48/null/angularjs.png"},
+      {"img":"https://randomuser.me/api/portraits/men/2.jpg","name":"Cora Key","email":"email","text":"https://img.icons8.com/fluency/48/null/flutter.png"},
+      {"img":"https://randomuser.me/api/portraits/women/2.jpg","name":"Tarik Novak","email":"email","text":"https://img.icons8.com/fluency/48/null/node-js.png"},
+      {"img":"https://randomuser.me/api/portraits/men/3.jpg","name":"Kylan Dorsey","email":"email","text":"https://img.icons8.com/color/48/null/javascript--v1.png"},
+      {"img":"https://randomuser.me/api/portraits/women/3.jpg","name":"Melisa Moon","email":"email","text":"https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"}
+    ],
+    "profile": {"name":"admin@gmail.com", "pass": "admin" }
+}
